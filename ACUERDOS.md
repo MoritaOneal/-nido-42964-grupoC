@@ -21,7 +21,7 @@ Si un acuerdo cambia, se actualiza aqui **con fecha**. Nada de borrar: se tacha 
 
 ### Acta 1 · fecha: 18/11/2026 · medio:  virtual
 - Asistentes: Yorwi, Luis, Angelo y Cristofer
-- Temas:Cuentas en un árbol binario de búsqueda, seguimientos en un grafo dirigido, recursión (incluido el alcance de un post con DFS) y archivos.
+- Temas: Equipo, repositorio privado, tablero y acuerdos.
 - Acuerdos (que · quien · para cuando):
 - Repartimos que requisitos hara cada integrante
 
