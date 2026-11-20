@@ -19,7 +19,7 @@ Si un acuerdo cambia, se actualiza aqui **con fecha**. Nada de borrar: se tacha 
 
 ## Actas de reuniones
 
-### Acta 1 · fecha: 18/11/2026 · medio:  virtual
+### Acta 1 · fecha: 19/11/2026 · medio:  virtual
 - Asistentes: Yorwi, Luis, Angelo y Cristofer
 - Temas: Equipo, repositorio privado, tablero y acuerdos.
 - Acuerdos (que · quien · para cuando):
