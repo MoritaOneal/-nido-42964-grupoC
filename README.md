@@ -16,7 +16,7 @@ Estructura de Datos · Evaluacion C2 · Unidad 4 · 2026-20 · NRC `42964` · Gr
 | Luis Hermoza | `@MoritaOneal` | Dev · arbol | R3, R4 |
 | Yorwi Torres | `@yorwitorres-ux` | Dev · grafo | R5, R6 |
 | Cristofer Neyra | `@72258745-svg` | Dev · alcance y archivo | R7, pruebas |
-|  |  | QA y documentacion | 
+| Angelo Roque | `@patrickvalencia-cpu` | QA y documentacion | 
 
 Tablero del equipo: `https://github.com/MoritaOneal/-nido-42964-grupoC` · Presentacion: `<enlace>`
 
