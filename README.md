@@ -1,4 +1,4 @@
-# Nido · comunidad `<nido-nombre-de-su-ave>`
+# Nido · comunidad `nido-tunqui`
 
 ![Nido CI](../../actions/workflows/nido.yml/badge.svg)
 
