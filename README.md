@@ -18,7 +18,7 @@ Estructura de Datos · Evaluacion C2 · Unidad 4 · 2026-20 · NRC `42964` · Gr
 | Cristofer Neyra | `@usuario` | Dev · alcance y archivo | R7, pruebas |
 |  |  | QA y documentacion | 
 
-Tablero del equipo: `<enlace a GitHub Projects>` · Presentacion: `<enlace>`
+Tablero del equipo: `https://github.com/MoritaOneal/-nido-42964-grupoC` · Presentacion: `<enlace>`
 
 ## Como compilar y ejecutar
 
