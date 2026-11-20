@@ -12,12 +12,11 @@ Estructura de Datos · Evaluacion C2 · Unidad 4 · 2026-20 · NRC `42964` · Gr
 
 | Integrante | Usuario de GitHub | Rol | Requisitos |
 |---|---|---|---|
-| Angelo Roque | `@patrickvalencia-cpu`  | Lider (scrum) |  |
-| Luis Hermoza | `@MoritaOneal` | Dev · arbol | R1, R2 |
-| Yorwi Torres | `@yorwitorres-ux` | Dev · grafo | R3, R4 |
-| Cristofer Neyra | `@usuario` | Dev · alcance y archivo | R5, R6 |
-|  |  | QA y documentacion | R7, pruebas |
-
+| Angelo Roque | `@patrickvalencia-cpu`  | Lider (scrum) | R1, R2 |
+| Luis Hermoza | `@MoritaOneal` | Dev · arbol | R3, R4 |
+| Yorwi Torres | `@yorwitorres-ux` | Dev · grafo | R5, R6 |
+| Cristofer Neyra | `@usuario` | Dev · alcance y archivo | R7, pruebas |
+|  |  | QA y documentacion | 
 Tablero del equipo: `<enlace a GitHub Projects>` · Presentacion: `<enlace>`
 
 ## Como compilar y ejecutar
