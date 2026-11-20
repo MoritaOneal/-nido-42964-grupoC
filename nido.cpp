@@ -30,14 +30,20 @@ int sigue[MAX][MAX];
 NodoUsuario *porId[MAX];
 int nUsuarios = 0;
 
-// ===== FICHA =====
-const string COMUNIDAD = "nido-de-prueba";
-const int N_U = 8;
-string fUsuario[N_U] = {"@mango", "@byte", "@pixel", "@andes", "@cuy", "@nova", "@zenit", "@lofi"};
-const int N_S = 10;
-string fSigue[N_S][2] = {{"@byte", "@mango"}, {"@pixel", "@mango"}, {"@mango", "@byte"}, {"@cuy", "@byte"},
-                         {"@andes", "@cuy"}, {"@nova", "@pixel"}, {"@zenit", "@nova"}, {"@mango", "@pixel"},
-                         {"@lofi", "@zenit"}, {"@zenit", "@lofi"}};
+// ===== FICHA ===== (copiar tal cual en nido.cpp)
+const string COMUNIDAD = "nido-tunqui";
+const int N_U = 10;
+string fUsuario[N_U] = {"@nube", "@delta", "@turbo", "@neon", "@chasqui",
+ "@sushi", "@orbita", "@haiku", "@koala", "@cactus"};
+const int N_S = 16;
+string fSigue[N_S][2] = {{"@haiku", "@cactus"}, {"@haiku", "@nube"},
+ {"@cactus", "@haiku"}, {"@cactus", "@koala"},
+ {"@cactus", "@chasqui"}, {"@turbo", "@koala"},
+ {"@orbita", "@cactus"}, {"@orbita", "@sushi"},
+ {"@nube", "@turbo"}, {"@neon", "@chasqui"},
+ {"@sushi", "@turbo"}, {"@chasqui", "@nube"},
+ {"@delta", "@koala"}, {"@chasqui", "@delta"},
+ {"@turbo", "@nube"}, {"@sushi", "@koala"}};
 // =================
 
 NodoUsuario* crearUsuario(string usuario, int id) {
