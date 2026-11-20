@@ -17,6 +17,7 @@ Estructura de Datos · Evaluacion C2 · Unidad 4 · 2026-20 · NRC `42964` · Gr
 | Yorwi Torres | `@yorwitorres-ux` | Dev · grafo | R5, R6 |
 | Cristofer Neyra | `@usuario` | Dev · alcance y archivo | R7, pruebas |
 |  |  | QA y documentacion | 
+
 Tablero del equipo: `<enlace a GitHub Projects>` · Presentacion: `<enlace>`
 
 ## Como compilar y ejecutar
