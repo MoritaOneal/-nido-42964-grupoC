@@ -6,10 +6,10 @@ Si un acuerdo cambia, se actualiza aqui **con fecha**. Nada de borrar: se tacha 
 
 | Integrante | Rol | Requisitos o tareas | Revisa los PR de |
 |---|---|---|---|
-| Angelo Roque |  |  |  |
-| Luis Hermoza |  |  |  |
-| Yorwi Torres |  |  |  |
-| Cristofer Neyra  |  |  |  |
+| Angelo Roque | Lider (scrum) |  |  |
+| Luis Hermoza | Dev · arbol |  |  |
+| Yorwi Torres | Dev · grafo |  |  |
+| Cristofer Neyra  | Dev · alcance y archivo |  |  |
 
 
 ## Como trabajamos
