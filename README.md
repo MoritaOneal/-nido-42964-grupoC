@@ -6,7 +6,7 @@ Red social de consola hecha en C++ con un **arbol binario de busqueda** (las cue
 por @usuario), un **grafo dirigido** en matriz de adyacencia (quien sigue a quien), **recursion**
 (recorridos del arbol y DFS para el alcance de un post) y persistencia en `nido.txt`.
 
-Estructura de Datos · Evaluacion C2 · Unidad 4 · 2026-20 · NRC `<NRC>` · Grupo `<letra>`
+Estructura de Datos · Evaluacion C2 · Unidad 4 · 2026-20 · NRC `42964` · Grupo `C`
 
 ## Equipo
 
