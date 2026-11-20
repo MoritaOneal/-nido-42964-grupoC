@@ -19,7 +19,7 @@ Si un acuerdo cambia, se actualiza aqui **con fecha**. Nada de borrar: se tacha 
 
 ## Actas de reuniones
 
-### Acta 1 · fecha: ____ · medio: presencial / virtual
+### Acta 1 · fecha: 18/11/2026 · medio:  virtual
 - Asistentes:
 - Temas:
 - Acuerdos (que · quien · para cuando):
