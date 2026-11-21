@@ -6,12 +6,14 @@ Si un acuerdo cambia, se actualiza aqui **con fecha**. Nada de borrar: se tacha 
 
 | Integrante | Rol | Requisitos o tareas | Revisa los PR de |
 |---|---|---|---|
-| Angelo Roque | Lider (scrum) | R1, R2 | Luis Hermoza |
-| Luis Hermoza | Dev · arbol |  R3, R4 | Yorwi Torres |
+| Angelo Roque | Lider (scrum) | ~~R1, R2~~ R3, R4 | Luis Hermoza |
+| Luis Hermoza | Dev · arbol | ~~R3, R4~~ R1, R2 | Yorwi Torres |
 | Yorwi Torres | Dev · grafo | R5, R6 | Cristofer Neyra |
 | Cristofer Neyra  | Dev · alcance y archivo | R7, pruebas | Angelo Roque |
 | Angelo Roque | Lider (scrum) | QA y documentacion |  |
 
+
+**Actualización del 20/11/2026:** Luis Hermoza y Angelo Roque intercambian sus requisitos asignados. Angelo mantiene el rol de líder.
 
 ## Como trabajamos
 
