@@ -1,0 +1,27 @@
+arbol
+usuarios
+perfil @cactus
+seguidores @cactus
+siguiendo @cactus
+mutuos @cactus
+popular
+alcance @chasqui
+llega @chasqui @orbita
+llega @cactus @delta
+registrar @jazz
+registrar @jazz
+registrar jazz
+seguir @jazz @nube
+seguir @chasqui @jazz
+seguir @chasqui @jazz
+dejar @neon @chasqui
+alcance @chasqui
+seguidores @turbo
+popular
+arbol
+reporte
+guardar
+cargar
+usuarios
+reporte
+salir

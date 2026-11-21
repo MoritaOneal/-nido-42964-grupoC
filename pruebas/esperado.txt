@@ -1,0 +1,17 @@
+Preorden: @nube @delta @chasqui @cactus @neon @haiku @koala @turbo @sushi @orbita
+Nodos: 10 | altura: 5 | hojas: 3
+Usuarios (enorden): @cactus @chasqui @delta @haiku @koala @neon @nube @orbita @sushi @turbo
+@cactus | id 9 | seguidores 2 | siguiendo 3
+Seguidores de @cactus (2): @orbita @haiku
+@cactus sigue a (3): @chasqui @haiku @koala
+Registrado: @jazz (id 10)
+E: No se pudo registrar @jazz
+E: No se pudo registrar jazz
+@jazz ahora sigue a @nube
+@chasqui ahora sigue a @jazz
+E: @chasqui ya sigue a @jazz
+@neon dejo de seguir a @chasqui
+Seguidores de @turbo (2): @nube @sushi
+Preorden: @nube @delta @chasqui @cactus @neon @haiku @koala @jazz @turbo @sushi @orbita
+Nodos: 11 | altura: 6 | hojas: 3
+Usuarios (enorden): @cactus @chasqui @delta @haiku @jazz @koala @neon @nube @orbita @sushi @turbo
