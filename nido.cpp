@@ -178,7 +178,11 @@ void guardarPreorden(NodoUsuario *r, ofstream &f) {
 
 int liberar(NodoUsuario *r) {
     // TODO R7a
-    return 0;
+   if (r == nullptr)return 0;
+   int k = liberar(r->izq) + liberar(r->der);
+   delete r;
+   return k + 1;
+   return 0;
 }
 
 /* ---------- Ordenes ---------- */
@@ -399,6 +403,15 @@ int main() {
         }
         else if (orden == "reporte") {
             // TODO R7b
+           int s= 0, pm = 0;
+           for (int a = 0; a < nUsuarios; a++) {
+              for (int b = 0; b < nUsuarios; b++) {
+                 if (sigue[a][b] == 1) s++;
+                 if (a < b && sigue[a][b] == 1 && sigue[b][a] == 1) pm++;
+              }
+           }
+           cout << "Cuentas: " << contar(raiz) << " | seguimientos: " << s << " | pares mutuos: " << pm << endl;
+           cout << "Arbol: altura " << altura(raiz) << " | hojas " << hojas(raiz) << endl;
         }
         else if (orden == "ayuda") ayuda();
         else if (orden == "salir") break;
