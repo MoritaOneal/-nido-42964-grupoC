@@ -12,9 +12,9 @@ Estructura de Datos · Evaluacion C2 · Unidad 4 · 2026-20 · NRC `42964` · Gr
 
 | Integrante | Usuario de GitHub | Rol | Requisitos |
 |---|---|---|---|
-| Angelo Roque | `@patrickvalencia-cpu`  | Lider (scrum) | R3, R4 |
-| Luis Hermoza | `@MoritaOneal` | Dev · arbol | R1, R2 |
-| Yorwi Torres | `@yorwitorres-ux` | Dev · grafo | R5, R6 |
+| Angelo Roque | `@patrickvalencia-cpu`  | Lider (scrum) | R4, R5 |
+| Luis Hermoza | `@MoritaOneal` | Dev · arbol | R1, R2, R3 |
+| Yorwi Torres | `@yorwitorres-ux` | Dev · grafo | R6 |
 | Cristofer Neyra | `@72258745-svg` | Dev · alcance y archivo | R7, pruebas |
 | Angelo Roque | `@patrickvalencia-cpu` | QA y documentacion | 
 
