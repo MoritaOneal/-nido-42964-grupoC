@@ -27,5 +27,10 @@
 | P23 | R1 a R3 | Secuencia oficial completa (`pruebas/secuencia.txt`) | Las lineas de `pruebas/esperado.txt` | Las 17 lineas aparecen en la salida | Si |
 | P24 | R4 | `mutuos @cactus` | `Mutuos de @cactus (1): @haiku` | Igual al esperado | Si |
 | P25 | R4 | `popular` despues de `seguir @jazz @nube` (empate @nube y @koala con 4) | `Popular: @nube \| seguidores: 4` (gana el menor id) | Igual al esperado | Si |
+| P26 | R5 | `llega @chasqui @orbita` y `llega @cactus @delta` | `si` y `no` | `Un post de @chasqui llega a @orbita: si` y `Un post de @cactus llega a @delta: no` | Si |
+| P27 | R5 | `alcance @chasqui` despues de `dejar @neon @chasqui` | `Alcance de @chasqui: @cactus @orbita @haiku \| alcanzados: 3` | Igual al esperado | Si |
+| P28 | R5 | `alcance @neon` (nadie la sigue) | `Alcance de @neon: (nadie) \| alcanzados: 0` | Igual al esperado | Si |
+| P29 | R5 | `llega @nube @nube` | `E: Elijan dos cuentas distintas` | Igual al esperado | Si |
+| P30 | R5 | `llega @nube` (falta una cuenta) | `Uso: llega @a @b` | Igual al esperado | Si |
 
 Agreguen todas las que necesiten. Incluyan casos con datos invalidos.
