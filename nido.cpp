@@ -6,9 +6,12 @@
    Docente    : Carlos del Carpio
    Semestre   : 2026-20
    Compilador : Dev-C++ (MinGW / GCC, C++11 o superior)
-   NRC        :
-   Grupo      :
-   Integrantes:
+   NRC        :42964
+   Grupo      :C
+   Integrantes:Angelo Patrick Roque Valencia
+               Luis Fernando Hermoza Huanca
+               Cristofer Neyra Caira
+               Yorwi Andre Torres Hinojoza
    ============================================================= */
 
 #include <iostream>
