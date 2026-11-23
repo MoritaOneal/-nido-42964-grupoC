@@ -15,3 +15,15 @@ Seguidores de @turbo (2): @nube @sushi
 Preorden: @nube @delta @chasqui @cactus @neon @haiku @koala @jazz @turbo @sushi @orbita
 Nodos: 11 | altura: 6 | hojas: 3
 Usuarios (enorden): @cactus @chasqui @delta @haiku @jazz @koala @neon @nube @orbita @sushi @turbo
+Mutuos de @cactus (1): @haiku
+Popular: @koala | seguidores: 4
+Alcance de @chasqui: @neon @cactus @orbita @haiku | alcanzados: 4
+Un post de @chasqui llega a @orbita: si
+Un post de @cactus llega a @delta: no
+Alcance de @chasqui: @cactus @orbita @haiku | alcanzados: 3
+Popular: @nube | seguidores: 4
+Cuentas: 11 | seguimientos: 17 | pares mutuos: 2
+Arbol: altura 6 | hojas 3
+Guardado: 11 cuentas y 17 seguimientos en nido.txt
+Cargado: 11 cuentas y 17 seguimientos | altura 6
+Nodos liberados: 11. Hasta pronto.
