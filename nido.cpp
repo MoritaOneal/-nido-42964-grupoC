@@ -348,6 +348,18 @@ int main() {
         }
         else if (orden == "alcance") {
             // TODO R5b
+            NodoUsuario *u = buscar(raiz, a1);
+            if (u == nullptr) cout << "E: No existe " << a1 << endl;
+            else {
+                bool visto[MAX] = {false};
+                cout << "Alcance de " << u->usuario << ":";
+                difundir(u->id, visto, true);
+                int k = 0;
+                for (int i = 0; i < nUsuarios; i++) if (visto[i]) k++;
+                int alcanzados = k - 1;
+                if (alcanzados == 0) cout << " (nadie)";
+                cout << " | alcanzados: " << alcanzados << endl;
+            }
         }
         else if (orden == "llega") {
             // TODO R5c
