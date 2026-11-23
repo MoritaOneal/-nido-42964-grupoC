@@ -332,6 +332,12 @@ int main() {
         }
         else if (orden == "popular") {
             // TODO R4b
+            if (nUsuarios == 0) cout << "(sin cuentas)" << endl;
+            else {
+                int mejor = 0;
+                for (int i = 1; i < nUsuarios; i++) if (contarSeguidores(i) > contarSeguidores(mejor)) mejor = i;
+                cout << "Popular: " << porId[mejor]->usuario << " | seguidores: " << contarSeguidores(mejor) << endl;
+            }
         }
         else if (orden == "alcance") {
             // TODO R5b
