@@ -1,0 +1,59 @@
+Nido - comunidad nido-tunqui (10 cuentas). Escribe ayuda.
+nido@nido-tunqui:~$ > arbol
+Preorden: @nube @delta @chasqui @cactus @neon @haiku @koala @turbo @sushi @orbita
+Nodos: 10 | altura: 5 | hojas: 3
+nido@nido-tunqui:~$ > usuarios
+Usuarios (enorden): @cactus @chasqui @delta @haiku @koala @neon @nube @orbita @sushi @turbo
+nido@nido-tunqui:~$ > perfil @cactus
+@cactus | id 9 | seguidores 2 | siguiendo 3
+nido@nido-tunqui:~$ > seguidores @cactus
+Seguidores de @cactus (2): @orbita @haiku
+nido@nido-tunqui:~$ > siguiendo @cactus
+@cactus sigue a (3): @chasqui @haiku @koala
+nido@nido-tunqui:~$ > mutuos @cactus
+Mutuos de @cactus (1): @haiku
+nido@nido-tunqui:~$ > popular
+Popular: @koala | seguidores: 4
+nido@nido-tunqui:~$ > alcance @chasqui
+Alcance de @chasqui: @neon @cactus @orbita @haiku | alcanzados: 4
+nido@nido-tunqui:~$ > llega @chasqui @orbita
+Un post de @chasqui llega a @orbita: si
+nido@nido-tunqui:~$ > llega @cactus @delta
+Un post de @cactus llega a @delta: no
+nido@nido-tunqui:~$ > registrar @jazz
+Registrado: @jazz (id 10)
+nido@nido-tunqui:~$ > registrar @jazz
+E: No se pudo registrar @jazz
+nido@nido-tunqui:~$ > registrar jazz
+E: No se pudo registrar jazz
+nido@nido-tunqui:~$ > seguir @jazz @nube
+@jazz ahora sigue a @nube
+nido@nido-tunqui:~$ > seguir @chasqui @jazz
+@chasqui ahora sigue a @jazz
+nido@nido-tunqui:~$ > seguir @chasqui @jazz
+E: @chasqui ya sigue a @jazz
+nido@nido-tunqui:~$ > dejar @neon @chasqui
+@neon dejo de seguir a @chasqui
+nido@nido-tunqui:~$ > alcance @chasqui
+Alcance de @chasqui: @cactus @orbita @haiku | alcanzados: 3
+nido@nido-tunqui:~$ > seguidores @turbo
+Seguidores de @turbo (2): @nube @sushi
+nido@nido-tunqui:~$ > popular
+Popular: @nube | seguidores: 4
+nido@nido-tunqui:~$ > arbol
+Preorden: @nube @delta @chasqui @cactus @neon @haiku @koala @jazz @turbo @sushi @orbita
+Nodos: 11 | altura: 6 | hojas: 3
+nido@nido-tunqui:~$ > reporte
+Cuentas: 11 | seguimientos: 17 | pares mutuos: 2
+Arbol: altura 6 | hojas 3
+nido@nido-tunqui:~$ > guardar
+Guardado: 11 cuentas y 17 seguimientos en nido.txt
+nido@nido-tunqui:~$ > cargar
+Cargado: 11 cuentas y 17 seguimientos | altura 6
+nido@nido-tunqui:~$ > usuarios
+Usuarios (enorden): @cactus @chasqui @delta @haiku @jazz @koala @neon @nube @orbita @sushi @turbo
+nido@nido-tunqui:~$ > reporte
+Cuentas: 11 | seguimientos: 17 | pares mutuos: 2
+Arbol: altura 6 | hojas 3
+nido@nido-tunqui:~$ > salir
+Nodos liberados: 11. Hasta pronto.
