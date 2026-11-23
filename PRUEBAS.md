@@ -32,5 +32,7 @@
 | P28 | R5 | `alcance @neon` (nadie la sigue) | `Alcance de @neon: (nadie) \| alcanzados: 0` | Igual al esperado | Si |
 | P29 | R5 | `llega @nube @nube` | `E: Elijan dos cuentas distintas` | Igual al esperado | Si |
 | P30 | R5 | `llega @nube` (falta una cuenta) | `Uso: llega @a @b` | Igual al esperado | Si |
+| P31 | R5 | `llega @neon @nube` (el sentido importa) | `Un post de @neon llega a @nube: no` | Igual al esperado | Si |
+| P32 | R6 | `guardar` y revisar `nido.txt` | 11 lineas `U` en preorden y 17 lineas `S` por filas | `Guardado: 11 cuentas y 17 seguimientos en nido.txt`; archivo en `pruebas/nido.txt` | Si |
 
 Agreguen todas las que necesiten. Incluyan casos con datos invalidos.
