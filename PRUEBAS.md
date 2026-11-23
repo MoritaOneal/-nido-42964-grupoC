@@ -40,4 +40,3 @@
 | P36 | R7 | Linea vacia, `HOLA @x`, `registrar @a-b`, `registrar @` | Ninguna cierra el programa | Linea vacia: vuelve a pedir orden; `HOLA: orden no encontrada (escribe ayuda)`; `E: No se pudo registrar @a-b`; `E: No se pudo registrar @` | Si |
 | P37 | R7 | Ordenes en ingles: `follow`, `reaches`, `trending`, `mutuals`, `stats`, `exit` | Mismo resultado que en espanol | Igual al esperado | Si |
 
-Agreguen todas las que necesiten. Incluyan casos con datos invalidos.
