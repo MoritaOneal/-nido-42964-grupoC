@@ -322,6 +322,13 @@ int main() {
         }
         else if (orden == "mutuos") {
             // TODO R4a
+            NodoUsuario *u = buscar(raiz, a1);
+            if (u == nullptr) cout << "E: No existe " << a1 << endl;
+            else {
+                bool marca[MAX] = {false};
+                for (int x = 0; x < nUsuarios; x++) if (sigue[u->id][x] == 1 && sigue[x][u->id] == 1) marca[x] = true;
+                imprimirMarcados("Mutuos de " + u->usuario, marca);
+            }
         }
         else if (orden == "popular") {
             // TODO R4b
