@@ -25,5 +25,7 @@
 | P21 | R1 | `registrar` (sin argumento) | `Uso: registrar @usuario` | Igual al esperado | Si |
 | P22 | R1 | Registrar 3 cuentas nuevas (`@a1`, `@a2`, `@a3`) con 10 cargadas | `@a1` id 10, `@a2` id 11 y `@a3` rechazada (MAX = 12) | `Registrado: @a1 (id 10)`, `Registrado: @a2 (id 11)`, `E: No se pudo registrar @a3` | Si |
 | P23 | R1 a R3 | Secuencia oficial completa (`pruebas/secuencia.txt`) | Las lineas de `pruebas/esperado.txt` | Las 17 lineas aparecen en la salida | Si |
+| P24 | R4 | `mutuos @cactus` | `Mutuos de @cactus (1): @haiku` | Igual al esperado | Si |
+| P25 | R4 | `popular` despues de `seguir @jazz @nube` (empate @nube y @koala con 4) | `Popular: @nube \| seguidores: 4` (gana el menor id) | Igual al esperado | Si |
 
 Agreguen todas las que necesiten. Incluyan casos con datos invalidos.
